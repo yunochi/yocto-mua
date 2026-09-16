@@ -1,0 +1,2 @@
+yocto-yuno config template
+

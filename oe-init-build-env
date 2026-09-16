@@ -1,0 +1,3 @@
+TEMPLATECONF=$(pwd)/layers/meta-yuno/conf/templates/default
+. layers/openembedded-core/oe-init-build-env
+

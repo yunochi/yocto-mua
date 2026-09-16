@@ -1,0 +1,28 @@
+[submodule "layers/meta-arm"]
+	path = layers/meta-arm
+	url = https://git.yoctoproject.org/meta-arm
+	branch = wrynose
+[submodule "layers/meta-rockchip"]
+	path = layers/meta-rockchip
+	url = https://git.yoctoproject.org/meta-rockchip
+	branch = wrynose
+[submodule "layers/meta-yocto"]
+	path = layers/meta-yocto
+	url = https://git.yoctoproject.org/meta-yocto
+	branch = wrynose
+[submodule "layers/meta-openembedded"]
+	path = layers/meta-openembedded
+	url = https://git.yoctoproject.org/meta-openembedded
+	branch = wrynose
+[submodule "layers/openembedded-core"]
+	path = layers/openembedded-core
+	url = https://git.yoctoproject.org/openembedded-core
+	branch = wrynose
+[submodule "layers/meta-raspberrypi"]
+	path = layers/meta-raspberrypi
+	url = https://git.yoctoproject.org/meta-raspberrypi
+	branch = wrynose
+[submodule "layers/bitbake"]
+	path = layers/bitbake
+	url = https://git.openembedded.org/bitbake
+	branch = master
